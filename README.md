@@ -2,7 +2,7 @@
 Student
 
 
-## 🌐 Socials:https://www.linkedin.com/in/sandhya-s-7369322a4
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhya-s-7369322a4) 
 
 # 💻 Tech Stack:
